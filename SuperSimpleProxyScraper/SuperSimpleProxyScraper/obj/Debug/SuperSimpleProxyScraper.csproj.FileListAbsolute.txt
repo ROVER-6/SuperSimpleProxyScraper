@@ -1,0 +1,10 @@
+C:\Users\alfie\source\repos\SuperSimpleProxyScraper\SuperSimpleProxyScraper\bin\Debug\SuperSimpleProxyScraper.exe.config
+C:\Users\alfie\source\repos\SuperSimpleProxyScraper\SuperSimpleProxyScraper\bin\Debug\SuperSimpleProxyScraper.exe
+C:\Users\alfie\source\repos\SuperSimpleProxyScraper\SuperSimpleProxyScraper\bin\Debug\SuperSimpleProxyScraper.pdb
+C:\Users\alfie\source\repos\SuperSimpleProxyScraper\SuperSimpleProxyScraper\obj\Debug\SuperSimpleProxyScraper.csproj.AssemblyReference.cache
+C:\Users\alfie\source\repos\SuperSimpleProxyScraper\SuperSimpleProxyScraper\obj\Debug\SuperSimpleProxyScraper.Form1.resources
+C:\Users\alfie\source\repos\SuperSimpleProxyScraper\SuperSimpleProxyScraper\obj\Debug\SuperSimpleProxyScraper.Properties.Resources.resources
+C:\Users\alfie\source\repos\SuperSimpleProxyScraper\SuperSimpleProxyScraper\obj\Debug\SuperSimpleProxyScraper.csproj.GenerateResource.cache
+C:\Users\alfie\source\repos\SuperSimpleProxyScraper\SuperSimpleProxyScraper\obj\Debug\SuperSimpleProxyScraper.csproj.CoreCompileInputs.cache
+C:\Users\alfie\source\repos\SuperSimpleProxyScraper\SuperSimpleProxyScraper\obj\Debug\SuperSimpleProxyScraper.exe
+C:\Users\alfie\source\repos\SuperSimpleProxyScraper\SuperSimpleProxyScraper\obj\Debug\SuperSimpleProxyScraper.pdb
